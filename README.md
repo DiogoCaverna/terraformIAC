@@ -27,6 +27,8 @@
 <h3>Links:</h3>
 <a href="https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-build">Terraform-AWS-Get-Started</a>
 <p></p>
+<a href="https://cursos.alura.com.br/extra/alura-mais/o-que-e-um-iam-role-no-aws--c875">IAM Role na AWS</a>
+<p></p>
 <a href="https://github.com/Ileriayo/markdown-badges">Markdown-Badges</a>
 <p></p>
 <a href="https://shields.io/badges">Shields.io/badges</a>
